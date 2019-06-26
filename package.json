@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio3",
+  "version": "1.0.0",
+  "description": "ejercicio en clase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myruuribe/ejercicio3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myruuribe/ejercicio3/issues"
+  },
+  "homepage": "https://github.com/myruuribe/ejercicio3#readme",
+  "dependencies": {
+    "number-to-words": "^1.2.4"
+  }
+}
